@@ -1,4 +1,4 @@
-# R-Shiny---Next-level-of-Data-Visualization [UDEMY course]
+# R-Shiny---Next-level-of-Data-Visualization.
 Learn how to use R and Shiny to create compelling data visualizations and how to share them online.
 
 What you'll learn?
